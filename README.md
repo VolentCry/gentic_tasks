@@ -1,4 +1,16 @@
-# gentic_tasks
-This is a small project to solve problems on genetics for the use in biology, but my task is to make it universal, capable of processing large amounts of information, solving complex genetic problems.
+# Genetic Tasks
 
-So far, to work with the algorithm, open the main file, call the genetic_programme function, enter the first parent, the second parent in the parameters, as a result you will get all possible answers.
+*[Read in English](#english) | [Читать на русском](#русский)*
+
+---
+
+## 🇷🇺 Русский
+
+Проект на Python для решения задач по генетике (в том числе для ЕГЭ по биологии). Цель — создать универсальный алгоритм для обработки больших объемов данных и решения сложных генетических задач.
+
+### Установка
+
+```bash
+git clone [https://github.com/VolentCry/gentic_tasks.git](https://github.com/VolentCry/gentic_tasks.git)
+cd gentic_tasks
+pip install -r requirements.txt
