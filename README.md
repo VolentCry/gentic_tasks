@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ### Использование
 Для работы с алгоритмом откройте основной файл и вызовите функцию genetic_programme. Передайте генотипы первого и второго родителя в качестве параметров, чтобы получить все возможные варианты потомства.
 
-## 🇬🇧 English
+## 🇺🇸 English
 A Python project designed to solve genetics problems, including biology USE (ЕГЭ) tasks. The main goal is to build a universal algorithm capable of processing large amounts of information and solving complex genetic tasks.
 
 ### Installation
